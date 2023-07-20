@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="help_guidance">
+    <help_guidance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_route>now/experience/manager</app_route>
+        <auto_launch_order/>
+        <checklist/>
+        <context>coaching</context>
+        <description>Create a learning library to organize related content into categories.</description>
+        <eh_content display_value="create-learning-catalog">ad4c559547003110ebbb361b336d43a3</eh_content>
+        <name>Create a learning library</name>
+        <order>1500</order>
+        <roles/>
+        <route_params/>
+        <snc_created>false</snc_created>
+        <status>published</status>
+        <sys_class_name>help_guidance</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-14 12:12:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>654c559547003110ebbb361b336d43a4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create a learning library</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BTGetGitfiles">68cfd9d347803110ebbb361b336d43bf</sys_scope>
+        <sys_update_name>help_guidance_654c559547003110ebbb361b336d43a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 18:38:42</sys_updated_on>
+        <topic_id>create-learning-catalog</topic_id>
+        <type>embedded_help</type>
+        <version>utah</version>
+    </help_guidance>
+    <sys_translated_text action="delete_multiple" query="documentkey=654c559547003110ebbb361b336d43a4"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="BTGetGitfiles">68cfd9d347803110ebbb361b336d43bf</claim_owner_scope>
+        <claim_timestamp>1897498dd260000001</claim_timestamp>
+        <metadata_update_name>help_guidance_654c559547003110ebbb361b336d43a4</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>BTGetGitfiles</previous_claim_name>
+        <previous_claim_scope>68cfd9d347803110ebbb361b336d43bf</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-20 18:38:42</sys_created_on>
+        <sys_id>634ea59347c03110ebbb361b336d43a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-20 18:38:42</sys_updated_on>
+    </sys_claim>
+</record_update>
